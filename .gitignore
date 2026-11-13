@@ -1,0 +1,19 @@
+# Build output
+target/
+dist/
+out/
+*.class
+*.jar
+*.exe
+
+# App data (never commit personal notes)
+notes-desk-save.txt
+notes-desk-save.txt.tmp
+backups/
+
+# IDE / OS
+.vscode/
+.idea/
+*.iml
+Thumbs.db
+.DS_Store
